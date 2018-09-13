@@ -4,4 +4,4 @@
 
 ### line 3
 
-My name is Alyssa Chalmers
+My name is **Alyssa Chalmers**
