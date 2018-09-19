@@ -4,8 +4,8 @@ _My name is_ **Alyssa Chalmers**
 
 Acronym | Long form
 ----------|-----------
-ANSI | American national standards institute 
-CAD | Computer aided design
-CNC | Computer numerical control
+ANSI | _American national standards institute_
+CAD | _Computer aided design_
+CNC | _Computer numerical control_
 
 :droplet: :blowfish: :whale:
