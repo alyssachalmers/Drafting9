@@ -7,3 +7,5 @@ Acronym | Long form
 ANSI | American national standards institute 
 CAD | Computer aided design
 CNC | Computer numerical control
+
+:droplet: :blowfish: :whale:
