@@ -6,8 +6,8 @@
 
 _My name is_ **Alyssa Chalmers**
 
-**Acronym | Long form**
+Acronym | Long form
 ----------|-----------
-ANSI | G
-CAD | H
-CNC | J
+ANSI | American national standards institute 
+CAD | Computer aided design
+CNC | Computer numerical control
